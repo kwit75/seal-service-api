@@ -15,8 +15,8 @@ Initiates the signing process for an item
 
 ##### Response
 
-204 NO_CONTENT - Returned if the request succeeds and the caller can instruct the end user to lauunch the Bank ID application.
-4xx-5xx - Returned if the request failed for any reason.
+* `204 NO_CONTENT` - Returned if the request succeeds and the caller can instruct the end user to lauunch the Bank ID application.
+* `4xx-5xx` - Returned if the request failed for any reason.
 
 ---
 
